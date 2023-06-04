@@ -1,0 +1,12 @@
+(MainThread) 201216_20:55:13.604 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201216_20:55:13.604 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201216_20:55:13.605 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201216_20:55:13.605 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201216_20:55:13.605 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201216_20:55:13.605 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201216_20:55:13.606 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201216_20:55:14.328 ERROR wrapper.py:56 ERROR 2002 2152 Exchanges - Depth: IEX; Top: BYX; PEARL; AMEX; CHX; NYSENAT; PSX; MEMX; EDGEA; LTSE; ISE; DRCTEDGE; Need additional market data permissions - Depth: BATS; ARCA; ISLAND; BEX; NYSE; 
+(MainThread) 201216_20:58:37.246 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201216_20:58:37.281 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cafarm
+(MainThread) 201216_20:58:37.865 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:eufarm
+(MainThread) 201216_20:58:38.520 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:afarm

@@ -1,0 +1,11 @@
+(MainThread) 201216_19:16:36.715 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cafarm
+(MainThread) 201216_19:16:36.716 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201216_19:16:36.718 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201216_19:16:36.719 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:afarm
+(MainThread) 201216_19:16:36.719 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201216_19:16:36.719 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:eufarm
+(MainThread) 201216_19:16:36.720 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201216_19:16:36.720 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201216_19:16:36.720 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201216_19:16:36.721 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201216_19:16:36.721 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj

@@ -1,0 +1,26 @@
+(MainThread) 201216_11:54:03.453 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201216_11:54:03.453 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201216_11:54:03.453 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201216_11:54:03.454 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201216_11:54:03.454 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 201216_11:54:03.454 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201216_11:54:03.454 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 201216_11:54:03.455 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201216_11:54:03.455 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201216_11:54:03.483 ERROR wrapper.py:56 ERROR 2001 10092 Deep market data is not supported for this combination of security type/exchange
+(MainThread) 201216_11:54:40.992 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usopt
+(MainThread) 201216_11:54:41.157 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usfarm
+(MainThread) 201216_11:54:41.167 ERROR wrapper.py:56 ERROR -1 2105 HMDS data farm connection is broken:fundfarm
+(MainThread) 201216_11:54:41.233 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:cashfarm
+(MainThread) 201216_11:54:41.259 ERROR wrapper.py:56 ERROR -1 2105 HMDS data farm connection is broken:ushmds
+(MainThread) 201216_11:54:41.271 ERROR wrapper.py:56 ERROR -1 2105 HMDS data farm connection is broken:cashhmds
+(MainThread) 201216_11:54:41.283 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usfarm.nj
+(MainThread) 201216_11:54:41.306 ERROR wrapper.py:56 ERROR -1 2105 HMDS data farm connection is broken:euhmds
+(MainThread) 201216_11:54:41.307 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 201216_11:54:41.309 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201216_11:54:41.311 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201216_11:54:41.415 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201216_11:54:41.415 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201216_11:54:41.416 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201216_11:54:41.475 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201216_11:54:42.011 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:euhmds

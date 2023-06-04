@@ -1,0 +1,7 @@
+(MainThread) 201216_12:24:26.488 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201216_12:24:26.489 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201216_12:24:26.490 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201216_12:24:26.490 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201216_12:24:26.491 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201216_12:24:26.491 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201216_12:24:36.596 ERROR wrapper.py:56 ERROR 2001 2152 Unknown market data permissions - Depth: BATS; ARCA; ISLAND; BEX; NYSE; IEX; Top: BYX; AMEX; PEARL; CHX; NYSENAT; PSX; MEMX; EDGEA; LTSE; ISE; DRCTEDGE; 

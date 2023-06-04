@@ -1,0 +1,11 @@
+(MainThread) 201216_12:03:41.655 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201216_12:03:41.655 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201216_12:03:41.656 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201216_12:03:41.656 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201216_12:03:41.656 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 201216_12:03:41.656 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201216_12:03:41.660 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 201216_12:03:41.660 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201216_12:03:41.660 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201216_12:03:43.376 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:eufarm
+(MainThread) 201216_12:03:51.912 ERROR wrapper.py:56 ERROR 2002 2152 Unknown market data permissions - Depth: IBIS; DXEDE; TRQXDE; EBS; CHIXDE; VSE; BATEDE; Top: FWB; GETTEX; SWB; TGATE; 
